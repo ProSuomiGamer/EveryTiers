@@ -1,6 +1,6 @@
 const players = [
   {
-    name: "ProSuomiGamerYT",
+    name: "ProSuomiGamer",
     points: 12,
     rank: 1,
     tiers: ["LT3⚔️", "LT3🪓"]
