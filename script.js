@@ -3,7 +3,7 @@ const players = [
     name: "ProSuomiGamerYT",
     points: 12,
     rank: 1,
-    tiers: ["LT3 (Sword)", "LT3 (Axe)"]
+    tiers: ["LT3⚔️", "LT3🪓"]
   },
   {
     name: "Muikkunen1",
