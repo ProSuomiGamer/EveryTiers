@@ -3,25 +3,25 @@ const players = [
     name: "ProSuomiGamer",
     points: 12,
     rank: 1,
-    tiers: ["LT3⚔️", "LT3🪓"]
+    tiers: ["⚔️ | LT3", "🪓 | LT3"]
   },
   {
     name: "Muikkunen1",
-    points: 1,
+    points: 3,
     rank: 2,
-    tiers: ["LT5"]
+    tiers: ["🪓 | LT4"]
   },
   {
-    name: "coldified",
-    points: 1,
+    name: "Rotanvaippa",
+    points: 2,
     rank: 3,
-    tiers: ["LT5"]
+    tiers: ["⚔️ | HT5"]
   },
   {
-    name: "Swight",
-    points: 290,
+    name: "Tohkted",
+    points: 2,
     rank: 4,
-    tiers: ["HT3", "LT3", "HT1"]
+    tiers: ["🪓 | HT5"]
   }
 ];
 
