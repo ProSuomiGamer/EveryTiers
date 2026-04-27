@@ -6,21 +6,33 @@ const players = [
     tiers: ["⚔️ | LT3", "🪓 | LT3"]
   },
   {
+    name: "Kaseriih",
+    points: 7,
+    rank: 2,
+    tiers: ["🪓 | LT4"] ["🔨 | HT4"]
+  },
+  {
+    name: "Enii_M",
+    points: 3,
+    rank: 3,
+    tiers: ["🔮 | LT4"]
+  },
+  {
     name: "Muikkunen1",
     points: 3,
-    rank: 2,
+    rank: 3,
     tiers: ["🪓 | LT4"]
   },
   {
     name: "Rotanvaippa",
     points: 2,
-    rank: 3,
+    rank: 4,
     tiers: ["⚔️ | HT5"]
   },
   {
     name: "Tohkted",
     points: 2,
-    rank: 4,
+    rank: 5,
     tiers: ["🪓 | HT5"]
   }
 ];
