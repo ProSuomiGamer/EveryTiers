@@ -9,7 +9,7 @@ const players = [
     name: "Kaseriih",
     points: 7,
     rank: 2,
-    tiers: ["🪓 | LT4"] ["🔨 | HT4"]
+    tiers: ["🪓 | LT4", "🔨 | HT4"]
   },
   {
     name: "Enii_M",
