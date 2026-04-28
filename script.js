@@ -39,7 +39,7 @@ const players = [
     name: "ItsPertti",
     points: 3,
     rank: 7,
-    tiers: [" | LT4"]
+    tiers: ["🔨 | LT4"]
   },
   {
     name: "Tohkted",
