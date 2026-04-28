@@ -1,6 +1,6 @@
 const players = [
   {
-    name: "ProSuomiGamer",
+    name: "ProSuomiGamerYT",
     points: 12,
     rank: 1,
     tiers: ["⚔️ | LT3", "🪓 | LT3"]
@@ -20,19 +20,31 @@ const players = [
   {
     name: "Muikkunen1",
     points: 3,
-    rank: 3,
+    rank: 4,
     tiers: ["🪓 | LT4"]
   },
   {
     name: "Rotanvaippa",
-    points: 2,
-    rank: 4,
-    tiers: ["⚔️ | HT5"]
+    points: 3,
+    rank: 5,
+    tiers: ["⚔️ | LT4"]
+  },
+  {
+    name: "Matti2404",
+    points: 3,
+    rank: 6,
+    tiers: ["⚔️ | LT4"]
+  },
+  {
+    name: "ItsPertti",
+    points: 3,
+    rank: 7,
+    tiers: [" | LT4"]
   },
   {
     name: "Tohkted",
     points: 2,
-    rank: 5,
+    rank: 8,
     tiers: ["🪓 | HT5"]
   }
 ];
