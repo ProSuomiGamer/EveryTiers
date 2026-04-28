@@ -13,9 +13,9 @@ const players = [
   },
   {
     name: "Enii_M",
-    points: 3,
+    points: 6,
     rank: 3,
-    tiers: ["🔮 | LT4"]
+    tiers: ["🔮 | LT3"]
   },
   {
     name: "Muikkunen1",
