@@ -111,3 +111,16 @@ header {
 .player.bronze .rank {
   color: #cd7f32;
 }
+/* TOP 3 (gold/silver/bronze) tekstit mustaksi */
+.player.gold .rank,
+.player.silver .rank,
+.player.bronze .rank {
+  color: black !important;
+}
+
+/* points mustaksi TOP 3 */
+.player.gold .points,
+.player.silver .points,
+.player.bronze .points {
+  color: black !important;
+}
