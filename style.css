@@ -100,3 +100,14 @@ header {
   border: 2px solid #cd7f32;
   box-shadow: 0 0 15px rgba(205, 127, 50, 0.4);
 }
+.player.gold .rank {
+  color: #facc15;
+}
+
+.player.silver .rank {
+  color: #d1d5db;
+}
+
+.player.bronze .rank {
+  color: #cd7f32;
+}
