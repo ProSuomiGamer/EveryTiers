@@ -77,7 +77,15 @@ const leaderboard = document.getElementById("leaderboard");
 
 players.forEach(player => {
   const div = document.createElement("div");
-  div.classList.add("player");
+div.classList.add("player");
+
+if (player.rank === 1) {
+  div.classList.add("gold");
+} else if (player.rank === 2) {
+  div.classList.add("silver");
+} else if (player.rank === 3) {
+  div.classList.add("bronze");
+}
 
 div.innerHTML = `
   <div class="rank">#${player.rank}</div>
