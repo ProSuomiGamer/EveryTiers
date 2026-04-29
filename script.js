@@ -31,9 +31,9 @@ const players = [
   },
   {
     name: "Rotanvaippa",
-    points: 12,
+    points: 15,
     rank: 6,
-    tiers: ["⚔️ | LT4", "🪓 | HT5", "🔨 | HT5", "🪖 | LT4", "☁️ | HT5"]
+    tiers: ["⚔️ | LT4", "🪓 | HT5", "🔨 | HT5", "🔮 | LT5", "🪖 | LT4", "🛏️ | HT5", "☁️ | HT5"]
   },
   {
     name: "Kaseriih",
