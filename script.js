@@ -1,9 +1,9 @@
 const players = [
   {
     name: "ProSuomiGamerYT",
-    points: 28,
+    points: 32,
     rank: 1,
-    tiers: ["⚔️ | LT3", "🪓 | LT3", "🦴 | LT3", "🍷 | HT4", "🔨 | LT3"]
+    tiers: ["⚔️ | LT3", "🪓 | LT3", "🦴 | LT3", "🍷 | HT4", "🔨 | LT3", "🔮 | HT4"]
   },
   {
     name: "Geggoset",
@@ -64,6 +64,12 @@ const players = [
     points: 2,
     rank: 11,
     tiers: ["🪓 | HT5"]
+  },
+  {
+    name: "Jappize",
+    points: 1,
+    rank: 12,
+    tiers: ["🔨 | LT5"]
   }
 ];
 
