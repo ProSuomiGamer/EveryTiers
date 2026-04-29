@@ -80,3 +80,20 @@ header {
   height: 32px;
   border-radius: 6px;
 }
+/* GOLD */
+.player.gold {
+  background: linear-gradient(90deg, #3b2f00, #111827);
+  border: 2px solid gold;
+}
+
+/* SILVER */
+.player.silver {
+  background: linear-gradient(90deg, #2f2f2f, #111827);
+  border: 2px solid silver;
+}
+
+/* BRONZE */
+.player.bronze {
+  background: linear-gradient(90deg, #3b1f00, #111827);
+  border: 2px solid #cd7f32;
+}
