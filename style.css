@@ -124,3 +124,8 @@ header {
 .player.bronze .points {
   color: black !important;
 }
+.player.gold .name,
+.player.silver .name,
+.player.bronze .name {
+  color: black;
+}
