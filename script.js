@@ -25,27 +25,27 @@ const players = [
   },
   {
     name: "Muikkunen1",
-    points: 9,
+    points: 15,
     rank: 5,
-    tiers: ["🪓 | LT4", "🪖 | LT3"]
+    tiers: ["🪓 | LT4", "🪖 | LT3", "☁️ | LT3"]
+  },
+  {
+    name: "Rotanvaippa",
+    points: 12,
+    rank: 6,
+    tiers: ["⚔️ | LT4", "🪓 | HT5", "🔨 | HT5", "🪖 | LT4", "☁️ | HT5"]
   },
   {
     name: "Kaseriih",
     points: 7,
-    rank: 6,
+    rank: 7,
     tiers: ["🪓 | LT4", "🔨 | HT4"]
   },
   {
     name: "cxne_",
     points: 7,
-    rank: 7,
-    tiers: ["⚔️ | LT4", "🔨 | HT4"]
-  },
-  {
-    name: "Rotanvaippa",
-    points: 6,
     rank: 8,
-    tiers: ["⚔️ | LT4", "🪖 | LT4"]
+    tiers: ["⚔️ | LT4", "🔨 | HT4"]
   },
   {
     name: "Matti2404",
