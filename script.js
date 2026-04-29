@@ -79,16 +79,19 @@ players.forEach(player => {
   const div = document.createElement("div");
   div.classList.add("player");
 
-  div.innerHTML = `
-    <div class="rank">#${player.rank}</div>
-    <div class="name">
+div.innerHTML = `
+  <div class="rank">#${player.rank}</div>
+  <div class="name">
+    <img class="avatar" src="https://mc-heads.net/avatar/${player.name}">
+    <div>
       ${player.name}<br>
       <span class="points">${player.points} points</span>
     </div>
-    <div class="tiers">
-      ${player.tiers.map(t => `<span>${t}</span>`).join("")}
-    </div>
-  `;
+  </div>
+  <div class="tiers">
+    ${player.tiers.map(t => `<span>${t}</span>`).join("")}
+  </div>
+`;
 
   leaderboard.appendChild(div);
 });
