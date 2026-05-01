@@ -24,16 +24,16 @@ const players = [
     tiers: ["⚔️ | HT4", "🪓 | LT4", "🔮 | LT3", "🛏️ | LT3"]
   },
   {
-    name: "Muikkunen1",
-    points: 15,
+    name: "Rotanvaippa",
+    points: 17,
     rank: 5,
-    tiers: ["🪓 | LT4", "🪖 | LT3", "☁️ | LT3"]
+    tiers: ["⚔️ | LT4", "🪓 | HT5", "🔨 | HT5", "🔮 | LT5", "🪖 | LT4", "🛏️ | HT5", "🧿 | HT5", "☁️ | HT5"]
   },
   {
-    name: "Rotanvaippa",
+    name: "Muikkunen1",
     points: 15,
     rank: 6,
-    tiers: ["⚔️ | LT4", "🪓 | HT5", "🔨 | HT5", "🔮 | LT5", "🪖 | LT4", "🛏️ | HT5", "☁️ | HT5"]
+    tiers: ["🪓 | LT4", "🪖 | LT3", "☁️ | LT3"]
   },
   {
     name: "Kaseriih",
@@ -48,22 +48,22 @@ const players = [
     tiers: ["⚔️ | LT4", "🔨 | HT4"]
   },
   {
+    name: "patruuunA",
+    points: 4,
+    rank: 9,
+    tiers: ["🦴 | LT5", "🔨 | HT5", "🧿| LT5"]
+  },
+  {
     name: "Matti2404",
     points: 3,
-    rank: 9,
+    rank: 10,
     tiers: ["⚔️ | LT4"]
   },
   {
     name: "ItsPertti",
     points: 3,
-    rank: 10,
-    tiers: ["🔨 | LT4"]
-  },
-  {
-    name: "patruuunA",
-    points: 3,
     rank: 11,
-    tiers: ["🦴 | LT5", "🔨 | HT5"]
+    tiers: ["🔨 | LT4"]
   },
   {
     name: "Tohkted",
@@ -76,6 +76,12 @@ const players = [
     points: 1,
     rank: 13,
     tiers: ["🔨 | LT5"]
+  },
+  {
+    name: "Hurrikaanii",
+    points: 1,
+    rank: 14,
+    tiers: ["🤺 | LT5"]
   }
 ];
 
