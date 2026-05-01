@@ -1,9 +1,9 @@
 const players = [
   {
     name: "ProSuomiGamerYT",
-    points: 32,
+    points: 44,
     rank: 1,
-    tiers: ["⚔️ | LT3", "🪓 | LT3", "🦴 | LT3", "🍷 | HT4", "🔨 | LT3", "🔮 | HT4"]
+    tiers: ["⚔️ | LT3", "🪓 | LT3", "🦴 | LT3", "🍷 | HT4", "🔨 | LT3", "🔮 | HT4", "🧿 | LT3", "🤺 | LT3"]
   },
   {
     name: "Slycel",
