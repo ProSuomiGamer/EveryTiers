@@ -66,9 +66,15 @@ const players = [
     tiers: ["🪓 | HT5"]
   },
   {
+    name: "patruuunA",
+    points: 2,
+    rank: 12,
+    tiers: ["🔨 | HT5"]
+  },
+  {
     name: "Jappize",
     points: 1,
-    rank: 12,
+    rank: 13,
     tiers: ["🔨 | LT5"]
   }
 ];
