@@ -6,22 +6,22 @@ const players = [
     tiers: ["⚔️ | LT3", "🪓 | LT3", "🦴 | LT3", "🍷 | HT4", "🔨 | LT3", "🔮 | HT4"]
   },
   {
+    name: "Slycel",
+    points: 30,
+    rank: 2,
+    tiers: ["⚔️ | LT3", "🦴 | LT3", "🍷 | LT3", "🍎 | LT3", "🛡️ | LT3"]
+  },
+  {
     name: "Geggoset",
     points: 20,
-    rank: 2,
+    rank: 3,
     tiers: ["🔨 | LT2"]
   },
   {
     name: "Enii_M",
     points: 19,
-    rank: 3,
-    tiers: ["⚔️ | HT4", "🪓 | LT4", "🔮 | LT3", "🛏️ | LT3"]
-  },
-  {
-    name: "Slycel",
-    points: 18,
     rank: 4,
-    tiers: ["🍷 | LT3", "🍎 | LT3", "🛡️ | LT3"]
+    tiers: ["⚔️ | HT4", "🪓 | LT4", "🔮 | LT3", "🛏️ | LT3"]
   },
   {
     name: "Muikkunen1",
