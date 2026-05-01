@@ -60,16 +60,16 @@ const players = [
     tiers: ["🔨 | LT4"]
   },
   {
-    name: "Tohkted",
-    points: 2,
+    name: "patruuunA",
+    points: 3,
     rank: 11,
-    tiers: ["🪓 | HT5"]
+    tiers: ["🦴 | LT5", "🔨 | HT5"]
   },
   {
-    name: "patruuunA",
+    name: "Tohkted",
     points: 2,
     rank: 12,
-    tiers: ["🔨 | HT5"]
+    tiers: ["🪓 | HT5"]
   },
   {
     name: "Jappize",
