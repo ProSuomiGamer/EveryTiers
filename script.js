@@ -36,51 +36,57 @@ const players = [
     tiers: ["🪓 | LT4", "🪖 | LT3", "☁️ | LT3"]
   },
   {
+    name: "patruuunA",
+    points: 15,
+    rank: 7,
+    tiers: ["⚔️ | HT5", "🪓 | LT5", "🦴 | LT5", "🔨 | HT5", "🧿| LT5", "🤺 | HT5", "👊 | LT4", "🥊 | HT5", "🍲 | LT5"]
+  },
+  {
     name: "Kaseriih",
     points: 7,
-    rank: 7,
+    rank: ,
     tiers: ["🪓 | LT4", "🔨 | HT4"]
   },
   {
     name: "cxne_",
     points: 7,
-    rank: 8,
+    rank: 9,
     tiers: ["⚔️ | LT4", "🔨 | HT4"]
   },
   {
-    name: "patruuunA",
+    name: "TimjamiYT",
     points: 4,
-    rank: 9,
-    tiers: ["🦴 | LT5", "🔨 | HT5", "🧿| LT5"]
+    rank: 10,
+    tiers: ["⚔️ | HT4"]
   },
   {
     name: "Matti2404",
     points: 3,
-    rank: 10,
+    rank: 11,
     tiers: ["⚔️ | LT4"]
   },
   {
     name: "ItsPertti",
     points: 3,
-    rank: 11,
+    rank: 12,
     tiers: ["🔨 | LT4"]
   },
   {
     name: "Tohkted",
     points: 2,
-    rank: 12,
+    rank: 13,
     tiers: ["🪓 | HT5"]
   },
   {
     name: "Jappize",
     points: 1,
-    rank: 13,
+    rank: 14,
     tiers: ["🔨 | LT5"]
   },
   {
     name: "Hurrikaanii",
     points: 1,
-    rank: 14,
+    rank: 15,
     tiers: ["🤺 | LT5"]
   }
 ];
